@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/binFilezilla#latest) before downloading.
 
+## r3 (2016/05/12)
+
+* New bundle : 0.9.57
+
 ## r2 (2016/04/17)
 
 * New bundle : 0.9.56.1
