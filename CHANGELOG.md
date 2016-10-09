@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/binFilezilla#latest) before downloading.
 
+## r5 (2016/10/09)
+
+* New bundle : 0.9.59
+
 ## r4 (2016/06/22)
 
 * Add Server Interface GUI
