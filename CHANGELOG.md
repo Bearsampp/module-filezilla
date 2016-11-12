@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/binFilezilla#latest) before downloading.
 
+## r6 (2016/11/12)
+
+* Use Neard SSL certificate
+
 ## r5 (2016/10/09)
 
 * New bundle : 0.9.59
