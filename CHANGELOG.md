@@ -1,7 +1,5 @@
 # Changelog
 
-### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/binFilezilla#latest) before downloading.
-
 ## r6 (2016/11/12)
 
 * Use Neard SSL certificate
@@ -25,6 +23,6 @@
 
 ## r1 (2015/12/06)
 
-* Init repo with Filezilla Server bundles from [Neard](https://github.com/crazy-max/neard)
+* Init repo with Filezilla Server bundles from Neard
 * New bundle : 0.9.54
 * Create template files (.nrd) for future Neard release
