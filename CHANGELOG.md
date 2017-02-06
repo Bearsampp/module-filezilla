@@ -1,5 +1,9 @@
 # Changelog
 
+## r7 (2017/02/06)
+
+* Missing Logs and config template for filezilla-0.9.59 module (Issue crazy-max/neard#217)
+
 ## r6 (2016/11/12)
 
 * Use Neard SSL certificate
