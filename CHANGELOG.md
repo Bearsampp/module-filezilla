@@ -1,5 +1,9 @@
 # Changelog
 
+## r8 (2017/04/25)
+
+* New bundle : 0.9.60.2 (Issue crazy-max/neard#252)
+
 ## r7 (2017/02/06)
 
 * Missing Logs and config template for filezilla-0.9.59 module (Issue crazy-max/neard#217)
