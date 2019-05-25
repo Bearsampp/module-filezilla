@@ -5,7 +5,7 @@ This is a module of [Neard project](https://github.com/neard/neard) involving Fi
 
 ## Documentation and downloads
 
-http://neard.io/modules/filezilla
+https://neard.io/modules/filezilla
 
 ## Issues
 
