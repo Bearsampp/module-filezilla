@@ -4,6 +4,6 @@
 * New Bundle 1.1.0
 
 ## 2020 (24Dec21)
-* Init repo with Filezilla Server bundles from Neard
+* Init repo with Filezilla Server bundles from bearsampp
 * New bundle : 0.9.54
 * Create template files (.ber) for future Bearsampp release
