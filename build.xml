@@ -21,8 +21,8 @@
     <replaceproperty src="bundle.folder" dest="bundle.version" replace="${bundle.name}" with=""/>
 
     <getmoduleuntouched name="${bundle.name}" version="${bundle.version}" propSrcDest="bundle.srcdest" propSrcFilename="bundle.srcfilename"/>
-    <assertfile file="${bundle.srcdest}/FileZilla Server.exe"/>
-    <assertfile file="${bundle.srcdest}/FileZilla Server Interface.exe"/>
+    <assertfile file="${bundle.srcdest}/filezilla-server.exe"/>
+    <assertfile file="${bundle.srcdest}/filezilla-server-gui.exe"/>
 
     <delete dir="${bundle.tmp.prep.path}/${bundle.folder}"/>
     <mkdir dir="${bundle.tmp.prep.path}/${bundle.folder}"/>
