@@ -52,7 +52,7 @@
         <Item name="Custom PASV IP" type="string"/>
         <Item name="Custom PASV min port" type="numeric">0</Item>
         <Item name="Custom PASV max port" type="numeric">0</Item>
-        <Item name="Initial Welcome Message" type="string">bearsampp Filezilla 1.4.1</Item>
+        <Item name="Initial Welcome Message" type="string">Bearsampp Filezilla 1.4.1</Item>
         <Item name="Admin port" type="numeric">14147</Item>
         <Item name="Admin Password" type="string"/>
         <Item name="Admin IP Bindings" type="string">*</Item>
@@ -96,7 +96,7 @@
         <Item name="Autoban type" type="numeric">0</Item>
         <Item name="Autoban time" type="numeric">1</Item>
         <Item name="Service name" type="string">bearsamppfilezilla</Item>
-        <Item name="Service display name" type="string">bearsampp Filezilla 1.4.1</Item>
+        <Item name="Service display name" type="string">Bearsampp Filezilla 1.4.1</Item>
         <SpeedLimits>
             <Download/>
             <Upload/>
