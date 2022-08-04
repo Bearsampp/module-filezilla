@@ -6,7 +6,7 @@
   <property name="build.properties" value="${project.basedir}/build.properties"/>
   <property file="${build.properties}"/>
 
-  <!-- Bearsampp dev -->
+  <!-- Neard dev -->
   <property name="dev.path" location="${root.dir}/dev"/>
   <fail unless="dev.path" message="Project 'dev' not found in ${dev.path}"/>
   <echo message="Bearsampp dev found in ${dev.path}" level="debug"/>
@@ -21,8 +21,8 @@
     <replaceproperty src="bundle.folder" dest="bundle.version" replace="${bundle.name}" with=""/>
 
     <getmoduleuntouched name="${bundle.name}" version="${bundle.version}" propSrcDest="bundle.srcdest" propSrcFilename="bundle.srcfilename"/>
-    <assertfile file="${bundle.srcdest}/filezilla-server.exe"/>
-    <assertfile file="${bundle.srcdest}/filezilla-server-gui.exe"/>
+    <assertfile file="${bundle.srcdest}/FileZilla Server.exe"/>
+    <assertfile file="${bundle.srcdest}/FileZilla Server Interface.exe"/>
 
     <delete dir="${bundle.tmp.prep.path}/${bundle.folder}"/>
     <mkdir dir="${bundle.tmp.prep.path}/${bundle.folder}"/>
