@@ -52,7 +52,7 @@
         <Item name="Custom PASV IP" type="string"/>
         <Item name="Custom PASV min port" type="numeric">0</Item>
         <Item name="Custom PASV max port" type="numeric">0</Item>
-        <Item name="Initial Welcome Message" type="string">Neard Filezilla 0.9.60.2</Item>
+        <Item name="Initial Welcome Message" type="string">Bearsampp Filezilla 1.5.1</Item>
         <Item name="Admin port" type="numeric">14147</Item>
         <Item name="Admin Password" type="string"/>
         <Item name="Admin IP Bindings" type="string">*</Item>
@@ -68,7 +68,7 @@
         <Item name="Download Speedlimit" type="numeric">10</Item>
         <Item name="Upload Speedlimit" type="numeric">10</Item>
         <Item name="Buffer Size" type="numeric">32768</Item>
-        <Item name="Custom PASV IP server" type="string">http://ip.filezilla-project.org/ip.php</Item>
+        <Item name="Custom PASV IP server" type="string">https://ip.filezilla-project.org/ip.php</Item>
         <Item name="Use custom PASV ports" type="numeric">0</Item>
         <Item name="Mode Z Use" type="numeric">0</Item>
         <Item name="Mode Z min level" type="numeric">1</Item>
@@ -96,7 +96,7 @@
         <Item name="Autoban type" type="numeric">0</Item>
         <Item name="Autoban time" type="numeric">1</Item>
         <Item name="Service name" type="string">bearsamppfilezilla</Item>
-        <Item name="Service display name" type="string">Bearsampp Filezilla 0.9.60.2</Item>
+        <Item name="Service display name" type="string">Bearsampp Filezilla 1.5.1</Item>
         <SpeedLimits>
             <Download/>
             <Upload/>
